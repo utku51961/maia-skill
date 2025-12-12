@@ -10,3 +10,4 @@ build/
 .cache/
 tmp/
 *.tmp
+coverage/
